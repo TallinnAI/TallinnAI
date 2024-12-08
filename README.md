@@ -1,0 +1,2 @@
+# TallinnAI
+TallinnAI Community Meetup
